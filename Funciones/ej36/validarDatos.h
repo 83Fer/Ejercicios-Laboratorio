@@ -1,0 +1,1 @@
+int validarEmpleado(int[], float);
